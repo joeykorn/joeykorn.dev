@@ -4,7 +4,7 @@
 
 @layer components {
 	h1 {
-		@apply text-4xl md:text-5xl lg:text-6xl font-semibold dark:text-light tracking-tight;
+		@apply text-4xl md:text-5xl lg:text-6xl font-semibold dark:text-light leading-tight md:leading-tight lg:leading-tight tracking-tight;
 	}
 
 	.btn {
