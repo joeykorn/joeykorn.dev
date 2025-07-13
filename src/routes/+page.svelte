@@ -3,10 +3,10 @@
 		<span
 			class="animate-gradient bg-[length:300%_300%] text-transparent bg-clip-text bg-gradient-to-br from-green-700 via-cyan-700 to-green-700 dark:from-green dark:via-cyan dark:to-green flex"
 			>Hello, I'm Joey.</span
-		><span class="dark:text-light">I build websites.</span>
+		><span class="dark:text-light">I craft digital experiences.</span>
 	</h1>
 	<p class="dark:text-light mt-6 mb-0 text-lg">
-		I enjoy building intuitive experiences that are engaging and user-centric.
+		I am passionate about building intuitive, accessible, and user-centered solutions.
 	</p>
 	<div class="mt-10">
 		<a href="/contact" class="btn btn--primary">Get in touch</a>
